@@ -1,0 +1,4 @@
+interface:
+  display_name: "Next Start"
+  short_description: "Scaffold a Next.js app with preferred defaults"
+  default_prompt: "Use $next-start to scaffold a fresh Next.js app with the standard helper, Radix colors, Base UI, fonts, and Biome."
